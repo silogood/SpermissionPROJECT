@@ -82,7 +82,7 @@ public class Permissions_in3 extends AppCompatActivity {
         ELV.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
             @Override
             public boolean onChildClick(ExpandableListView parent, View v, int groupPosition, int childPosition, long id) {
-                showInstalledAppDetails(getApplicationContext(), (String) v.getTag());
+                showInstalledAppDetails(Permissions_in3.this, (String) v.getTag());
                 return false;
             }
         });
