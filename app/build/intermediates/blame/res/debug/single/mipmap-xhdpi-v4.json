@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4\\ic_launcher.png",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },

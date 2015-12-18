@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
+import android.util.Log;
 import android.view.View;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -26,6 +27,7 @@ public class MainActivity extends AppCompatActivity {    //AppCompatActivity  ma
             public void onClick(View v) {
                 Intent intent = new Intent(MainActivity.this, Applications.class);
                 startActivity(intent);    //어플당 퍼미션
+                Log.v("", "XXXXX" + intent);
             }
         });
 
