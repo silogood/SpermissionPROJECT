@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
