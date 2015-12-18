@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pie.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\menu\\pie.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bar.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\menu\\bar.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bar.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\menu\\bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pie.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\menu\\pie.xml"
+    }
+]
