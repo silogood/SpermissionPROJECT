@@ -1,5 +1,37 @@
 [
     {
+<<<<<<< HEAD
+        "outputFile": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+=======
+        "outputFile": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+<<<<<<< HEAD
+                    "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 240,
+                        "endColumn": 112,
+                        "endOffset": 348
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\values-ldrtl-v23\\values-ldrtl-v23.xml",
         "map": [
             {

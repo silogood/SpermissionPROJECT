@@ -6,5 +6,14 @@
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     }
 ]

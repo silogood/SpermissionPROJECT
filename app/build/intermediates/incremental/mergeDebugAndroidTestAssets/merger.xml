@@ -1,2 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\app\src\androidTest\assets"/></dataSet></merger>
+<<<<<<< HEAD
+<merger version="3"><dataSet config="main"><source path="C:\Users\Jay\Github\SpermissionPROJECT\SpermissionPROJECT-1\app\src\androidTest\assets"/></dataSet></merger>
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Git\SpermissionPROJECT-1\app\src\androidTest\assets"/></dataSet></merger>
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c

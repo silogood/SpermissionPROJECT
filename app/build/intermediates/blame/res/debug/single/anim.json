@@ -1,35 +1,36 @@
 [
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+=======
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
@@ -40,32 +41,24 @@
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
@@ -92,44 +85,270 @@
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
+<<<<<<< HEAD
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
+=======
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_out_activity.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
+=======
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
-    },
-    {
+<<<<<<< HEAD
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_out_activity.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
     },
     {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_out_activity.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_out_activity.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\anim\\move_left_out_activity.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_left_in_activity.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\anim\\move_left_in_activity.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_in_activity.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\anim\\move_right_in_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move_right_out_activity.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\anim\\move_right_out_activity.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
@@ -138,6 +357,14 @@
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",

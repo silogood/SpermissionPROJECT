@@ -6,6 +6,7 @@ import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -35,6 +36,9 @@ public class Applications_SYSTEM extends Fragment {
     public boolean onOptionsItemSelected(MenuItem item) {
         int id = item.getItemId();
 
+     Log.v("","xxxx" +id);
+
+
         if (id == R.id.action_settings) {
             return true;
         }
@@ -59,5 +63,6 @@ public class Applications_SYSTEM extends Fragment {
         recyclerView.setAdapter(new RecyclerAdapter(getActivity().getApplicationContext(), System_items, R.layout.applications));
 
         return v;
+
     }
 }

@@ -8,28 +8,21 @@
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
-    },
-    {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\setting.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\download.png"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
@@ -40,16 +33,17 @@
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi_icon_press.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\permi_icon_press.png"
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\logo2.png"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bad.png",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\bad.png"
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bad.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\bad.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi_icon_press.png",
@@ -60,24 +54,8 @@
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
-    },
-    {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
@@ -88,10 +66,6 @@
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\marker2.png"
-    },
-    {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
@@ -100,24 +74,33 @@
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_icon3.png",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\main_icon3.png"
     },
     {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\permi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+=======
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\marker2.png"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
@@ -128,20 +111,15 @@
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\good.png"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locationicon.png",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\locationicon.png"
-    },
-    {
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\comment.png"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_icon3.png",
@@ -160,20 +138,12 @@
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
-    },
-    {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\setting.png"
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
@@ -184,32 +154,40 @@
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\app.xml"
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\app_icon.png"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\permi.xml"
-    },
-    {
+=======
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+=======
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_press.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\app_icon_press.png"
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locationicon.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\locationicon.png"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi.xml",
@@ -228,56 +206,112 @@
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
-    },
-    {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\app.xml"
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
     },
     {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\comment.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\ic_menu_manage.png"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\system.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permission.png",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\permission.png"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\marker2.png"
+    },
+    {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permission.png",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\permission.png"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\ic_menu_manage.png"
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bad.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\bad.png"
-    },
-    {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\permi.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+<<<<<<< HEAD
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permission.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\permission.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     },
     {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app.xml",
@@ -288,12 +322,388 @@
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\permi_icon.png"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permission.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\permission.png"
-    },
-    {
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.png",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\ic_menu_manage.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\comment.png"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi_icon_press.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\permi_icon_press.png"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\download.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\system.png"
+    },
+    {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\good.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\good.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locationicon.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\locationicon.png"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\app.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+=======
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi_icon_press.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\permi_icon_press.png"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bad.png",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\bad.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permission.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\permission.png"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+=======
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\ic_menu_manage.png"
+    },
+    {
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+<<<<<<< HEAD
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\marker2.png"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\marker2.png"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\marker2.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\marker2.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\download.png"
+    },
+    {
+=======
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_press.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\app_icon_press.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\locationicon.png",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\locationicon.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bad.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\bad.png"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi_icon_press.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\permi_icon_press.png"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi_icon.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\permi_icon.png"
+=======
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\setting.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\setting.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_press.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\app_icon_press.png"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\system.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\app.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\permi.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_press.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\app_icon_press.png"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+=======
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\good.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\good.png"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_icon3.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\main_icon3.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_manage.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\ic_menu_manage.png"
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bad.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\bad.png"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+=======
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\good.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\good.png"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\main_icon3.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\main_icon3.png"
+=======
+        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
+    },
+    {
+        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permission.png",
+        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\permission.png"
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -312,32 +722,38 @@
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\system.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\system.png"
-    },
-    {
+<<<<<<< HEAD
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon_press.png",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\app_icon_press.png"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\app_icon.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\app_icon.png"
-    },
-    {
+=======
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
         "merged": "E:\\AndroidStudio\\workspace\\Permissions\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi_icon.png",
         "source": "E:\\AndroidStudio\\workspace\\Permissions\\app\\src\\main\\res\\drawable\\permi_icon.png"
-    },
-    {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\good.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\good.png"
     },
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
@@ -348,7 +764,20 @@
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\logo2.png"
     },
     {
-        "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download.png",
-        "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\download.png"
+<<<<<<< HEAD
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\logo2.png"
+=======
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\permi_icon.png",
+        "source": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\permi_icon.png"
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
     }
 ]
