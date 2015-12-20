@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+=======
+        "outputFile": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 119
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -31,7 +39,11 @@
                     "endOffset": 420
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\src\\main\\res\\values-v21\\styles.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\src\\main\\res\\values-v21\\styles.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -51,7 +63,11 @@
                     "endOffset": 511
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -70,7 +86,11 @@
                     "endOffset": 614
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -89,7 +109,11 @@
                     "endOffset": 717
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -108,7 +132,11 @@
                     "endOffset": 822
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -127,7 +155,11 @@
                     "endOffset": 929
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -146,7 +178,11 @@
                     "endOffset": 1038
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -165,7 +201,11 @@
                     "endOffset": 1147
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -184,7 +224,11 @@
                     "endOffset": 1256
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -203,7 +247,11 @@
                     "endOffset": 1365
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -222,7 +270,11 @@
                     "endOffset": 1474
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -241,7 +293,11 @@
                     "endOffset": 1581
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -260,7 +316,11 @@
                     "endOffset": 1684
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -279,7 +339,11 @@
                     "endOffset": 1803
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -299,7 +363,11 @@
                     "endOffset": 1958
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -320,7 +388,11 @@
                     "endOffset": 2113
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -340,7 +412,11 @@
                     "endOffset": 2218
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -359,7 +435,11 @@
                     "endOffset": 2339
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -378,7 +458,11 @@
                     "endOffset": 2440
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -398,7 +482,11 @@
                     "endOffset": 2587
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -419,7 +507,11 @@
                     "endOffset": 2728
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -439,7 +531,11 @@
                     "endOffset": 2831
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -458,7 +554,11 @@
                     "endOffset": 2950
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 37,
                         "startColumn": 4,
@@ -477,7 +577,11 @@
                     "endOffset": 3057
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -496,7 +600,11 @@
                     "endOffset": 3160
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 39,
                         "startColumn": 4,
@@ -516,7 +624,11 @@
                     "endOffset": 3307
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -537,7 +649,11 @@
                     "endOffset": 3462
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 44,
                         "startColumn": 4,
@@ -558,7 +674,11 @@
                     "endOffset": 3633
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 46,
                         "startColumn": 4,
@@ -579,7 +699,11 @@
                     "endOffset": 3782
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -600,7 +724,11 @@
                     "endOffset": 3947
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -621,7 +749,11 @@
                     "endOffset": 4104
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -642,7 +774,11 @@
                     "endOffset": 4255
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -662,7 +798,11 @@
                     "endOffset": 4374
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -682,7 +822,11 @@
                     "endOffset": 4523
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -703,7 +847,11 @@
                     "endOffset": 4672
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -723,7 +871,11 @@
                     "endOffset": 4784
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -742,7 +894,11 @@
                     "endOffset": 4931
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 70,
                         "startColumn": 4,
@@ -762,7 +918,11 @@
                     "endOffset": 5084
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -783,7 +943,11 @@
                     "endOffset": 5231
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 73,
                         "startColumn": 4,
@@ -803,7 +967,11 @@
                     "endOffset": 5306
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 77,
                         "startColumn": 4,
@@ -822,7 +990,11 @@
                     "endOffset": 5395
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 78,
                         "startColumn": 4,
@@ -841,7 +1013,11 @@
                     "endOffset": 5482
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -860,7 +1036,11 @@
                     "endOffset": 5583
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 80,
                         "startColumn": 4,
@@ -880,7 +1060,11 @@
                     "endOffset": 8651
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 81,
                         "startColumn": 4,
@@ -901,7 +1085,11 @@
                     "endOffset": 8837
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 125,
                         "startColumn": 4,
@@ -922,7 +1110,11 @@
                     "endOffset": 11917
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 128,
                         "startColumn": 4,
@@ -943,7 +1135,11 @@
                     "endOffset": 12115
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 172,
                         "startColumn": 4,
@@ -964,7 +1160,11 @@
                     "endOffset": 12238
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 177,
                         "startColumn": 4,
@@ -985,7 +1185,11 @@
                     "endOffset": 12361
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1006,7 +1210,11 @@
                     "endOffset": 12474
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1027,7 +1235,11 @@
                     "endOffset": 12657
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1048,7 +1260,11 @@
                     "endOffset": 12788
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 186,
                         "startColumn": 4,
@@ -1069,7 +1285,11 @@
                     "endOffset": 12989
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1089,7 +1309,11 @@
                     "endOffset": 13078
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 191,
                         "startColumn": 4,
@@ -1108,7 +1332,11 @@
                     "endOffset": 13189
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1127,7 +1355,11 @@
                     "endOffset": 13316
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 193,
                         "startColumn": 4,
@@ -1146,7 +1378,11 @@
                     "endOffset": 13417
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1165,7 +1401,11 @@
                     "endOffset": 13512
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 195,
                         "startColumn": 4,
@@ -1184,7 +1424,11 @@
                     "endOffset": 13635
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1203,7 +1447,11 @@
                     "endOffset": 13764
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 197,
                         "startColumn": 4,
@@ -1222,7 +1470,11 @@
                     "endOffset": 13881
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 198,
                         "startColumn": 4,
@@ -1242,7 +1494,11 @@
                     "endOffset": 14058
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 199,
                         "startColumn": 4,
@@ -1262,7 +1518,11 @@
                     "endOffset": 14157
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1282,7 +1542,11 @@
                     "endOffset": 14292
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1303,7 +1567,11 @@
                     "endOffset": 14435
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1324,7 +1592,11 @@
                     "endOffset": 14570
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1345,7 +1617,11 @@
                     "endOffset": 14689
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 209,
                         "startColumn": 4,
@@ -1366,7 +1642,11 @@
                     "endOffset": 14890
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1387,7 +1667,11 @@
                     "endOffset": 15009
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1407,7 +1691,11 @@
                     "endOffset": 15102
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1426,7 +1714,11 @@
                     "endOffset": 15213
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1445,7 +1737,11 @@
                     "endOffset": 15269
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1465,7 +1761,11 @@
                     "endOffset": 15376
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 220,
                         "startColumn": 4,
@@ -1486,7 +1786,11 @@
                     "endOffset": 15571
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 222,
                         "startColumn": 4,
@@ -1507,7 +1811,11 @@
                     "endOffset": 15682
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 226,
                         "startColumn": 4,
@@ -1528,7 +1836,11 @@
                     "endOffset": 15815
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 228,
                         "startColumn": 4,
@@ -1548,7 +1860,11 @@
                     "endOffset": 15910
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 230,
                         "startColumn": 4,
@@ -1567,7 +1883,11 @@
                     "endOffset": 16001
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1586,7 +1906,11 @@
                     "endOffset": 16092
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 232,
                         "startColumn": 4,
@@ -1605,7 +1929,11 @@
                     "endOffset": 16209
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 233,
                         "startColumn": 4,
@@ -1625,7 +1953,11 @@
                     "endOffset": 16348
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 234,
                         "startColumn": 4,
@@ -1646,7 +1978,11 @@
                     "endOffset": 16701
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 238,
                         "startColumn": 4,
@@ -1667,7 +2003,11 @@
                     "endOffset": 17066
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 245,
                         "startColumn": 4,
@@ -1688,7 +2028,11 @@
                     "endOffset": 17746
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -1708,7 +2052,11 @@
                     "endOffset": 17803
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 262,
                         "startColumn": 4,
@@ -1727,7 +2075,11 @@
                     "endOffset": 17861
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v21\\values-v21.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 263,
                         "startColumn": 4,

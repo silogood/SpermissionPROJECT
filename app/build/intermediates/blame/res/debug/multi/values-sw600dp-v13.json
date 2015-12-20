@@ -660,7 +660,11 @@
         ]
     },
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+=======
+        "outputFile": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\values-sw600dp-v13\\values-sw600dp-v13.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
         "map": [
             {
                 "to": {
@@ -671,7 +675,11 @@
                     "endOffset": 119
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -690,7 +698,11 @@
                     "endOffset": 189
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -709,7 +721,11 @@
                     "endOffset": 263
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -728,7 +744,11 @@
                     "endOffset": 339
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -747,7 +767,11 @@
                     "endOffset": 398
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -766,7 +790,11 @@
                     "endOffset": 469
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -785,7 +813,11 @@
                     "endOffset": 537
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -804,7 +836,11 @@
                     "endOffset": 607
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -823,7 +859,11 @@
                     "endOffset": 678
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -842,7 +882,11 @@
                     "endOffset": 750
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -861,7 +905,11 @@
                     "endOffset": 808
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -880,7 +928,11 @@
                     "endOffset": 866
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -899,7 +951,11 @@
                     "endOffset": 972
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -918,7 +974,11 @@
                     "endOffset": 1036
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -937,7 +997,11 @@
                     "endOffset": 1091
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -956,7 +1020,11 @@
                     "endOffset": 1154
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -976,7 +1044,11 @@
                     "endOffset": 1336
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+                    "file": "C:\\Git\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+>>>>>>> de33f04946d904d890d62980ea05a7e32f34739c
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
