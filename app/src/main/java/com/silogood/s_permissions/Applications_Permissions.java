@@ -36,21 +36,10 @@ import java.util.Map;
  */
 public class Applications_Permissions extends Activity {
 
-    private Context context;
     private ImageButton manageButton;
-
     private PackageManager mPm;
-
-    private static final String NAME = "Name";
-    private static final String DESCRIPTION = "Description";
-    private static final String PACKAGENAME = "PackageName";
-    private static final String SECURITYLEVEL = "Securitylevel";
-    private static final String PERMISSION = "permission";
-    private static final String TAG = "Permissions";
     private List<Map<String, String>> mGroupData;
     private List<List<Map<String, String>>> mChildData;    // 똑같이 그룹 차일드를 받을 변수지정
-    private ExpandableListView permissionList;
-
 
     public void onCreate(Bundle savedInstanceState) {
 
@@ -58,34 +47,25 @@ public class Applications_Permissions extends Activity {
         setContentView(R.layout.applications_permissions);
         mPm = getPackageManager();                          //패키지매니저를 열어줌
         Intent i = getIntent();                              // 인텐트를 받아서
-        String title = i.getStringExtra("PackageName");           // title 이라는 String 변수값에  PackageName 으로 넘어온 인텐트값을 저장
+        final String PackageName = i.getStringExtra("PackageName");           // title 이라는 String 변수값에  PackageName 으로 넘어온 인텐트값을 저장
+
         //final String PackageName = title.substring(8);            // 이부분은 브로드캐스트 받으면 앞에 8글자가 딸려와서 그거 제외해주는코드
-        final String PackageName = title;
 
         ExpandableListView list = (ExpandableListView) findViewById(R.id.permissionList);
         mGroupData = new ArrayList<Map<String, String>>();
         mChildData = new ArrayList<List<Map<String, String>>>();
-        String permissionName;
-        String applicationLabel;
-        String packageName;
         PackageInfo pi = null;
-        ApplicationInfo ai = null;
-        applicationLabel = PackageName;
+        ApplicationInfo ai;
         int packageVersionCode;
         String packageVersionName;
         String AppName;
         Drawable icon;
-        long lastUpdate;
-        int system;
-        int install;
-       ///정렬 및 초기화
 
         try {
             pi = mPm.getPackageInfo(PackageName, PackageManager.GET_META_DATA);   //패키지 인포값을 패키지네임을 통해 얻어옴
 
             try {
                 icon = mPm.getApplicationIcon(PackageName);                             /////icon  빼기
-
             } catch (PackageManager.NameNotFoundException e) {
                 icon = mPm.getDefaultActivityIcon();
             }
@@ -158,12 +138,12 @@ public class Applications_Permissions extends Activity {
                         CharSequence label = pinfo.loadLabel(mPm);                                     //라벨과 디스크립션을 추출하여 저장
                         CharSequence desc = pinfo.loadDescription(mPm);
 
-                        curGroupMap.put(NAME, (label == null) ? pinfo.name : label.toString());
+                        curGroupMap.put("Name", (label == null) ? pinfo.name : label.toString());
                         Log.d("AAA", label.toString());
-                        curGroupMap.put(SECURITYLEVEL, String.valueOf(pinfo.protectionLevel));
-                        curChildMap.put(PERMISSION, key);
-                        curChildMap.put(DESCRIPTION, (desc == null) ? "" : desc.toString());
-                        curChildMap.put(SECURITYLEVEL, String.valueOf(pinfo.protectionLevel));
+                        curGroupMap.put("Securitylevel", String.valueOf(pinfo.protectionLevel));
+                        curChildMap.put("permission", key);
+                        curChildMap.put("Description", (desc == null) ? "" : desc.toString());
+                        curChildMap.put("Securitylevel", String.valueOf(pinfo.protectionLevel));
                         children.add(curChildMap);
                                                                                                     ///차일드값에 저장해버림 퍼미션들 , 레벨 이름 등등
                         mGroupData.add(curGroupMap);
@@ -173,38 +153,31 @@ public class Applications_Permissions extends Activity {
 
 
                     } catch (PackageManager.NameNotFoundException e) {
-                        Log.i(TAG, "Ignoring unknown permission ");
+                        Log.i("Application_Permissions", "Ignoring unknown permission ");
                         continue;
                     }
                 }
             } else {
                 ((TextView) findViewById(R.id.iff)).setText(" App 의 요구 권한 이 없습니다 ^^  ");    //파이의 요구권한이없을시 띄워줌
-
-//                mGroupData.add(curGroupMap);
-//                mChildData.add(children);
             }
         } catch (NullPointerException e) {
-            Log.i(TAG, "Ignoring unknown permission ");
+            Log.i("Application_Permissions", "Ignoring unknown permission ");
         }
 
 
         PermissionAdapter mAdapter = new PermissionAdapter(
-                Applications_Permissions.this, mGroupData,                  //어뎁터를 생성 해서 그룹데이터에 연결
+                Applications_Permissions.this,
+                mGroupData,                  //어뎁터를 생성 해서 그룹데이터에 연결
                 R.layout.marketplay_item,                                   // 마켓플레이 아이템-
-                new String[]{NAME},                                          //이름값을생성
+                new String[]{ "Name" },                                          //이름값을생성
                 new int[]{R.id.text1},
                 mChildData,
                 R.layout.marketplay_item_child,
-                new String[]{DESCRIPTION,PERMISSION},
+                new String[]{ "Description", "permission"},
                 new int[]{R.id.text1,R.id.text2}
                                                                         //차일드를 연결 디스크립션과 퍼미션명을 연결
         );
         list.setAdapter(mAdapter);
-
-        Log.v("BBB", "" + mChildData);
-
-
-
     }
 
 
@@ -215,7 +188,7 @@ public class Applications_Permissions extends Activity {
                                  String[] childFrom, int[] childTo) {
             super(context, groupData, groupLayout, groupFrom, groupTo, childData,
                     childLayout, childFrom, childTo);
-        }         ///알아서해석ㅎ ....ㅐ.................
+        }
 
         @Override
         @SuppressWarnings("unchecked")
@@ -224,7 +197,7 @@ public class Applications_Permissions extends Activity {
             final View v = super.getGroupView(groupPosition, isExpanded, convertView, parent);
             Map<String, String> group = (Map<String, String>) getGroup(groupPosition);
             int secLevel=0;
-            if(!(group.get(SECURITYLEVEL)==null)) secLevel = Integer.parseInt(group.get(SECURITYLEVEL));
+            if(!(group.get("Securitylevel")==null)) secLevel = Integer.parseInt(group.get("Securitylevel"));
             TextView textView = (TextView) v.findViewById(R.id.text1);
             if (PermissionInfo.PROTECTION_DANGEROUS == secLevel) {
                 textView.setTextColor(Color.RED);

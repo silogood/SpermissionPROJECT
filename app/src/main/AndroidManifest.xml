@@ -18,12 +18,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".Permissions" />
+        <activity android:name=".Permissions_Tab" />
         <activity android:name=".Applications_Permissions" />
-        <activity android:name=".Permissions_in" />
-        <activity android:name=".Permissions_in2" />
-        <activity android:name=".Applications" />
-        <activity android:name=".MarketPlay" />
+        <activity android:name=".Permissions_PieChart_Detail" />
+        <activity android:name=".Applications_Tab" />
 
         <receiver android:name=".PackageReceiver">
             <intent-filter>
@@ -35,7 +33,7 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name=".Permissions_in3"/>
+        <activity android:name=".Permissions_HorizontalBarChart_Detail"/>
     </application>
 
 </manifest>

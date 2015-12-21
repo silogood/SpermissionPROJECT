@@ -7,21 +7,12 @@ import android.graphics.PointF;
 import android.graphics.RectF;
 import android.graphics.Typeface;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
-import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.WindowManager;
-import android.widget.SeekBar;
-import android.widget.SeekBar.OnSeekBarChangeListener;
-import android.widget.TextView;
-import android.widget.Toast;
 
 import com.github.mikephil.charting.charts.HorizontalBarChart;
 import com.github.mikephil.charting.components.Legend;
@@ -47,6 +38,8 @@ public class HorizontalBarChartActivity extends Fragment implements OnChartValue
     protected HorizontalBarChart mChart;
     //private SeekBar mSeekBarX, mSeekBarY;
    // private TextView tvX, tvY;
+
+    private int isLoad = 0;
 
     public HorizontalBarChartActivity() {}
 
@@ -195,7 +188,7 @@ public class HorizontalBarChartActivity extends Fragment implements OnChartValue
         yVals1.add(new BarEntry((float) (50.4), 16));
         yVals1.add(new BarEntry((float) (54.1), 17));
 
-        BarDataSet set1 = new BarDataSet(yVals1, "Dangerous Permissions TOP10");
+        BarDataSet set1 = new BarDataSet(yVals1, "Dangerous Permissions_Tab TOP10");
 
         ArrayList<BarDataSet> dataSets = new ArrayList<BarDataSet>();
         dataSets.add(set1);
@@ -207,54 +200,78 @@ public class HorizontalBarChartActivity extends Fragment implements OnChartValue
         mChart.setData(data);
     }
 
+    @Override
+    public void onResume() {
+        super.onResume();
+        isLoad = 0;
+    }
+
     @SuppressLint("NewApi")
     @Override
     public void onValueSelected(Entry e, int dataSetIndex, Highlight h) {
 
+        if(isLoad == 1) return;
+            isLoad = 1;
         if (e == null)
             return;
 
-        Intent intent = new Intent(getActivity(), Permissions_in3.class);
+        Intent intent = new Intent(getActivity(), Permissions_HorizontalBarChart_Detail.class);
 
         RectF bounds = mChart.getBarBounds((BarEntry) e);
         PointF position = mChart.getPosition(e, mChart.getData().getDataSetByIndex(dataSetIndex)
                 .getAxisDependency());
-        if (e.getXIndex() == 0) {
-            intent.putExtra("num", "android.permission.RECEIVE_BOOT_COMPLETED");
-        } else if (e.getXIndex() == 1) {
-            intent.putExtra("num", "android.permission.WAKE_LOCK");
-        } else if (e.getXIndex() == 2) {
-            intent.putExtra("num", "android.permission.ACCESS_WIFI_STATE");
-        }else if (e.getXIndex() == 3) {
+        switch(e.getXIndex()) {
+            case 1:
+                intent.putExtra("num", "android.permission.RECEIVE_BOOT_COMPLETED");
+                break;
+            case 2:
+                intent.putExtra("num", "android.permission.ACCESS_WIFI_STATE");
+                break;
+            case 3:
                 intent.putExtra("num", "android.permission.VIBRATE");
-        } else if (e.getXIndex() == 4) {
-            intent.putExtra("num", "android.permission.ACCESS_NETWORK_STATE");
-        }else if (e.getXIndex() == 5) {
-            intent.putExtra("num", "android.permission.CHANGE_WIFI_STATE");
-        } else if (e.getXIndex() == 6) {
-            intent.putExtra("num", "android.permission.INTERNET");
-        } else if (e.getXIndex() == 7){
-            intent.putExtra("num", "android.permission.WRITE_CONTACTS");
-        }else if (e.getXIndex() == 8) {
-            intent.putExtra("num", "android.permission.READ_CONTACTS");
-        }else if (e.getXIndex() == 9) {
-            intent.putExtra("num", "android.permission.ACCESS_FINE_LOCATION");
-        }else if (e.getXIndex() == 10) {
-            intent.putExtra("num", "android.permission.ACCESS_COARSE_LOCATION");
-        }else if (e.getXIndex() == 11) {
-            intent.putExtra("num", "android.permission.READ_PHONE_STATE");
-        }else if (e.getXIndex() == 12) {
-            intent.putExtra("num", "android.permission.WRITE_EXTERNAL_STORAGE");
-        }else if (e.getXIndex() == 13) {
-            intent.putExtra("num", "android.permission.RECEIVE_SMS");
-        }else if (e.getXIndex() == 14) {
-            intent.putExtra("num", "android.permission.WRITE_SMS");
-        }else if (e.getXIndex() == 15) {
-            intent.putExtra("num", "android.permission.CALL_PHONE");
-        }else if (e.getXIndex() == 16) {
-            intent.putExtra("num", "android.permission.READ_SMS");
-        }else if (e.getXIndex() == 17) {
-            intent.putExtra("num", "android.permission.SEND_SMS");
+                break;
+            case 4:
+                intent.putExtra("num", "android.permission.ACCESS_NETWORK_STATE");
+                break;
+            case 5:
+                intent.putExtra("num", "android.permission.CHANGE_WIFI_STATE");
+                break;
+            case 6:
+                intent.putExtra("num", "android.permission.INTERNET");
+                break;
+            case 7:
+                intent.putExtra("num", "android.permission.WRITE_CONTACTS");
+                break;
+            case 8:
+                intent.putExtra("num", "android.permission.READ_CONTACTS");
+                break;
+            case 9:
+                intent.putExtra("num", "android.permission.ACCESS_FINE_LOCATION");
+                break;
+            case 10:
+                intent.putExtra("num", "android.permission.ACCESS_COARSE_LOCATION");
+                break;
+            case 11:
+                intent.putExtra("num", "android.permission.READ_PHONE_STATE");
+                break;
+            case 12:
+                intent.putExtra("num", "android.permission.WRITE_EXTERNAL_STORAGE");
+                break;
+            case 13:
+                intent.putExtra("num", "android.permission.RECEIVE_SMS");
+                break;
+            case 15:
+                intent.putExtra("num", "android.permission.CALL_PHONE");
+                break;
+            case 16:
+                intent.putExtra("num", "android.permission.READ_SMS");
+                break;
+            case 17:
+                intent.putExtra("num", "android.permission.SEND_SMS");
+                break;
+            case 18:
+                intent.putExtra("num", "android.permission.RECEIVE_BOOT_COMPLETED");
+                break;
         }
 
         startActivity(intent);
@@ -263,8 +280,10 @@ public class HorizontalBarChartActivity extends Fragment implements OnChartValue
         Log.i("position", position.toString());
     }
 
+    @Override
     public void onNothingSelected() {
-    };
+
+    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
@@ -279,11 +298,10 @@ public class HorizontalBarChartActivity extends Fragment implements OnChartValue
 
         mChart = (HorizontalBarChart) v.findViewById(R.id.chart1);
         mChart.setOnChartValueSelectedListener(this);
-        // mChart.setHighlightEnabled(false);
 
-        mChart.setDrawBarShadow(true);
+        mChart.setDrawBarShadow(false);
         mChart.setDrawValueAboveBar(true);
-
+        mChart.setDoubleTapToZoomEnabled(false);
 
         mChart.setDescription("Dangerous Permission TOP 18");
 

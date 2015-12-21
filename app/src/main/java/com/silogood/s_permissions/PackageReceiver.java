@@ -35,14 +35,14 @@ public class PackageReceiver extends BroadcastReceiver {
             // Application Install
             Log.v("XXXX5", "     1  "+A);
             toastMessage = "PACKAGE_INSTALL OR PACKAGE_UPDATE: "+  intent.getData().toString() + getApplicationName(context, intent.getData().toString(), PackageManager.GET_UNINSTALLED_PACKAGES);
-            Intent i = new Intent(context,MarketPlay.class);
-            i.putExtra("title", A);
+            Intent i = new Intent(context, Applications_Permissions.class);
+            String packagename = A.substring(8);
+            i.putExtra("PackageName", packagename);
+
 
             i.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
             i.addFlags(Intent.FLAG_ACTIVITY_MULTIPLE_TASK);
             context.startActivity(i);
-
-
 
         }else if(intent.getAction().equals("android.intent.action.PACKAGE_REMOVED")){
             // Application Uninstall

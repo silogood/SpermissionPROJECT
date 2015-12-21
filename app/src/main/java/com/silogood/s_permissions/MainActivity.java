@@ -10,36 +10,39 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Button;
 
-public class MainActivity extends AppCompatActivity {    //AppCompatActivity  material 도구 이용할수있게 해주는 extends
-    Button btn;
-    Button btn2;
+public class MainActivity extends AppCompatActivity implements View.OnClickListener{    //AppCompatActivity  material 도구 이용할수있게 해주는 extends
+
+    Button applicationbtn;
+    Button permissionbtn;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
-        setSupportActionBar(toolbar);   //툴바생성
+        setSupportActionBar(toolbar);
 
 
-        Button btn = (Button) findViewById(R.id.applicationbtn);
-        btn.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, Applications.class);
-                startActivity(intent);    //어플당 퍼미션
-                Log.v("", "XXXXX" + intent);
-            }
-        });
+        applicationbtn = (Button) findViewById(R.id.applicationbtn);
+        applicationbtn.setOnClickListener(this);
 
-        Button btn2 = (Button) findViewById(R.id.permissionbtn);
-        btn2.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(getApplicationContext(), Permissions.class);
-                startActivity(intent);
-                //퍼미션당 어플
-            }
-        });
+        permissionbtn = (Button) findViewById(R.id.permissionbtn);
+        permissionbtn.setOnClickListener(this);
+    }
+
+    @Override
+    public void onClick(View v) {
+        Intent intent = null;
+        switch (v.getId()) {
+            case R.id.applicationbtn:
+                intent = new Intent(MainActivity.this, Applications_Tab.class);
+                break;
+            case R.id.permissionbtn:
+                intent = new Intent(getApplicationContext(), Permissions_Tab.class);
+                break;
+        }
+
+        startActivity(intent);    //어플당 퍼미션
     }
 
     @Override
