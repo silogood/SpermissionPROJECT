@@ -24,12 +24,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.silogood.s_permissions.Permissions" />
+        <activity android:name="com.silogood.s_permissions.Permissions_Tab" />
         <activity android:name="com.silogood.s_permissions.Applications_Permissions" />
-        <activity android:name="com.silogood.s_permissions.Permissions_in" />
-        <activity android:name="com.silogood.s_permissions.Permissions_in2" />
-        <activity android:name="com.silogood.s_permissions.Applications" />
-        <activity android:name="com.silogood.s_permissions.MarketPlay" />
+        <activity android:name="com.silogood.s_permissions.Permissions_PieChart_Detail" />
+        <activity android:name="com.silogood.s_permissions.Applications_Tab" />
 
         <receiver android:name="com.silogood.s_permissions.PackageReceiver" >
             <intent-filter>
@@ -41,7 +39,7 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name="com.silogood.s_permissions.Permissions_in3" />
+        <activity android:name="com.silogood.s_permissions.Permissions_HorizontalBarChart_Detail" />
     </application>
 
 </manifest>
