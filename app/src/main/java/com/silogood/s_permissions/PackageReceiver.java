@@ -26,7 +26,7 @@ public class PackageReceiver extends BroadcastReceiver {
         // Get application status(Install/ Uninstall)
         boolean applicationStatus = intent.getBooleanExtra(Intent.EXTRA_REPLACING, false);
         String toastMessage = null;
-        Log.v("XXXX5", "     Intent ?   "+intent);
+       // Log.v("XXXX5", "     Intent ?   "+intent);
         // Check if the application is install or uninstall and display the message accordingly
         if(intent.getAction().equals("android.intent.action.PACKAGE_ADDED")){
 
