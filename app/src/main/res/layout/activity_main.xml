@@ -44,7 +44,7 @@
                 android:layout_height="wrap_content"
                 android:id="@+id/imageView"
                 android:layout_toEndOf="@+id/applicationbtn"
-                android:background="@drawable/logo2"/>
+                android:background="@drawable/logo3"/>
 
 
         </LinearLayout>

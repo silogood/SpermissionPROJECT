@@ -2483,15 +2483,16 @@ containing a value of this type.
         public static final int ic_menu_manage=0x7f020050;
         public static final int locationicon=0x7f020051;
         public static final int logo2=0x7f020052;
-        public static final int main_icon3=0x7f020053;
-        public static final int marker2=0x7f020054;
-        public static final int notification_template_icon_bg=0x7f02005b;
-        public static final int permi=0x7f020055;
-        public static final int permi_icon=0x7f020056;
-        public static final int permi_icon_press=0x7f020057;
-        public static final int permission=0x7f020058;
-        public static final int setting=0x7f020059;
-        public static final int system=0x7f02005a;
+        public static final int logo3=0x7f020053;
+        public static final int main_icon3=0x7f020054;
+        public static final int marker2=0x7f020055;
+        public static final int notification_template_icon_bg=0x7f02005c;
+        public static final int permi=0x7f020056;
+        public static final int permi_icon=0x7f020057;
+        public static final int permi_icon_press=0x7f020058;
+        public static final int permission=0x7f020059;
+        public static final int setting=0x7f02005a;
+        public static final int system=0x7f02005b;
     }
     public static final class id {
         public static final int RecyclerView=0x7f0c0071;

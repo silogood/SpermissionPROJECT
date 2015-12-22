@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -48,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "outputFile": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -59,7 +59,31 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Github\\SpermissionPROJECT\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "file": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13\\values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

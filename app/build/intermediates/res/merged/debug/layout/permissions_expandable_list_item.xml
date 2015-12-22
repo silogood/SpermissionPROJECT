@@ -27,7 +27,7 @@
         android:id="@+id/des"
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
-        android:text="설명"
+        android:text="info"
         android:focusable="false"/>
 
 
