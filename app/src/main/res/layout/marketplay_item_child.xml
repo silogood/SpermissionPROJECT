@@ -13,10 +13,11 @@
         android:typeface="sans"
         android:textSize="13dp"
         android:layout_marginRight="25dp"
-        android:layout_marginLeft="25dp"
+        android:layout_marginLeft="35dp"
         android:layout_marginTop="10dp"
         android:id="@+id/text2"
-        android:singleLine="true" />
+        android:singleLine="true"
+        />
 
     <TextView
         android:layout_width="wrap_content"
@@ -26,7 +27,7 @@
         android:typeface="sans"
         android:textSize="13dp"
         android:layout_marginRight="25dp"
-        android:layout_marginLeft="25dp"
+        android:layout_marginLeft="35dp"
         android:layout_marginTop="10dp"
         android:layout_marginBottom="10dp"
         android:id="@+id/text1" />

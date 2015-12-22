@@ -19,9 +19,7 @@ import android.view.MenuItem;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by Family on 2015-12-03.
- */
+
 public class Applications_Tab extends AppCompatActivity {
 
     private TabLayout tabLayout;
@@ -42,8 +40,8 @@ public class Applications_Tab extends AppCompatActivity {
 
     private void setupViewPager(ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
-        adapter.addFragment(new Applications_NO_SYSTEM(), "다운로드앱");
-        adapter.addFragment(new Applications_SYSTEM(), "시스템앱");
+        adapter.addFragment(new Applications_NO_SYSTEM(), "Download");
+        adapter.addFragment(new Applications_SYSTEM(), "System");
         viewPager.setAdapter(adapter);
     }
     class ViewPagerAdapter extends FragmentPagerAdapter {

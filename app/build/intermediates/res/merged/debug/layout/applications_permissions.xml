@@ -4,14 +4,17 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:background="@color/primary_light"
-    android:paddingTop="20dp">
+    android:background="#FFFFFF"
+
+    >
 
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:paddingTop="20dp"
+            android:background="@color/primary_light">
 
             <ImageView android:id="@android:id/icon"
                 android:layout_width="100dp"
@@ -21,7 +24,8 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
-                android:orientation="vertical">
+                android:orientation="vertical"
+                android:background="@color/primary_light">
 
                 <ImageButton android:id="@+id/application_detail_manage_button"
                     android:layout_width="30dp"
@@ -78,13 +82,15 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical">
+            android:orientation="vertical"
+            android:background="@color/primary_light">
 
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                 android:gravity="center"
+                android:background="@color/primary_light"
                 >
 
                 <Button
@@ -127,7 +133,26 @@
                 android:layout_height="wrap_content"
                 android:orientation="horizontal"
                  android:gravity="center"
+                 android:background="@color/primary_light"
                  >
+
+             <TextView android:id="@+id/iff"
+                 android:layout_width="match_parent"
+                 android:layout_height="wrap_content"
+                 android:layout_marginTop="15dp"
+                 android:layout_marginBottom="10dp"
+                 android:typeface="sans"
+                 android:gravity="center"
+                 android:text="Permissions"
+                 android:textColor="#FFFFFF"/>
+
+
+
+             <LinearLayout
+                 android:orientation="vertical"
+                 android:layout_width="match_parent"
+                 android:layout_height="1dp"
+                 android:background="#000000"/>
 
 
 
@@ -137,60 +162,28 @@
         </LinearLayout>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    <!--<TextView-->
-        <!--android:layout_width="wrap_content"-->
-        <!--android:layout_height="29dp"-->
-        <!--android:layout_marginTop="15dp"/>-->
-
-    <!--<LinearLayout-->
-        <!--android:orientation="vertical"-->
-        <!--android:layout_width="match_parent"-->
-        <!--android:layout_height="3dp"-->
-        <!--android:background="#000000">-->
-    <!--</LinearLayout>-->
-
-
-    <TextView android:id="@+id/iff"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="15dp"
-        android:layout_marginBottom="10dp"
-        android:typeface="sans"
-        android:gravity="center"
-        android:text="Permissions"
-        android:textColor="#FFFFFF"/>
-
-
-
     <LinearLayout
-        android:orientation="vertical"
         android:layout_width="match_parent"
-        android:layout_height="1dp"
-        android:background="#000000"/>
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:background="#FFFFFF"
+        >
 
 
-    <ExpandableListView android:id="@+id/permissionList"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
-        android:dividerHeight="1dp"
-        android:divider="#000000"
-        android:groupIndicator="@null"/>
+        <ExpandableListView android:id="@+id/permissionList"
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            android:dividerHeight="1dp"
+            android:divider="#E0E0E0"
+            />
+
+    </LinearLayout>
+
+
+
+
+
+
 
 
 
