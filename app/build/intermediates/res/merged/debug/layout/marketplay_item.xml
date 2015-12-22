@@ -12,9 +12,10 @@
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:id="@+id/text1"
         android:textIsSelectable="false"
-        android:textSize="@dimen/abc_text_size_title_material"
-        android:typeface="serif"
-        android:layout_margin="15dp"
+        android:textSize="16dp"
+        android:typeface="sans"
+        android:layout_margin="13dp"
+        android:paddingLeft="20dp"
         android:layout_weight="1"/>
 
 
