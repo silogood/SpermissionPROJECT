@@ -5,21 +5,15 @@ import android.content.Intent;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.os.Bundle;
-import android.support.annotation.Nullable;
 import android.support.v4.app.Fragment;
-import android.support.v4.app.FragmentActivity;
-import android.support.v7.app.AppCompatActivity;
 import android.text.SpannableString;
 import android.text.style.ForegroundColorSpan;
 import android.text.style.RelativeSizeSpan;
-import android.text.style.StyleSpan;
 import android.util.Log;
 import android.view.LayoutInflater;
-import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.WindowManager;
 import android.widget.TextView;
 
 import com.github.mikephil.charting.animation.Easing;
@@ -179,8 +173,8 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
         Log.d("XXXvals", xVals.toString());
         Log.d("YYYvals", yVals1.toString());
         data.setValueFormatter(new PercentFormatter());
-        data.setValueTextSize(11f);
-        data.setValueTextColor(Color.WHITE);
+        data.setValueTextSize(15);// 11f
+        data.setValueTextColor(Color.BLACK);
         data.setValueTypeface(tf);
         mChart.setData(data);
 
@@ -192,13 +186,22 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
 
     private SpannableString generateCenterSpannableText() {
 
-        SpannableString s = new SpannableString("MPAndroidChart developed by Philipp Jahoda");
-        s.setSpan(new RelativeSizeSpan(1.7f), 0, 14, 0);
-        s.setSpan(new StyleSpan(Typeface.NORMAL), 14, s.length() - 15, 0);
-        s.setSpan(new ForegroundColorSpan(Color.GRAY), 14, s.length() - 15, 0);
-        s.setSpan(new RelativeSizeSpan(.8f), 14, s.length() - 15, 0);
-        s.setSpan(new StyleSpan(Typeface.ITALIC), s.length() - 14, s.length(), 0);
-        s.setSpan(new ForegroundColorSpan(ColorTemplate.getHoloBlue()), s.length() - 14, s.length(), 0);
+//        SpannableString s = new SpannableString("MPAndroidChart developed by Philipp Jahoda");
+//        s.setSpan(new RelativeSizeSpan(1.7f), 0, 14, 0);
+//        s.setSpan(new StyleSpan(Typeface.NORMAL), 14, s.length() - 15, 0);
+//        s.setSpan(new ForegroundColorSpan(Color.GRAY), 14, s.length() - 15, 0);
+//        s.setSpan(new RelativeSizeSpan(.8f), 14, s.length() - 15, 0);
+//        s.setSpan(new StyleSpan(Typeface.ITALIC), s.length() - 14, s.length(), 0);
+//        s.setSpan(new ForegroundColorSpan(ColorTemplate.getHoloBlue()), s.length() - 14, s.length(), 0);
+
+
+        SpannableString s = new SpannableString("Spermission");
+        s.setSpan(new RelativeSizeSpan(1.7f), 0, 11, 0);
+//        s.setSpan(new StyleSpan(Typeface.NORMAL), 14, s.length() - 15, 0);
+        s.setSpan(new ForegroundColorSpan(Color.BLUE), 0, s.length(), 0);
+//        s.setSpan(new RelativeSizeSpan(.8f), 14, s.length() - 15, 0);
+//        s.setSpan(new StyleSpan(Typeface.ITALIC), s.length() - 14, s.length(), 0);
+//        s.setSpan(new ForegroundColorSpan(ColorTemplate.getHoloBlue()), s.length() - 14, s.length(), 0);
         return s;
     }
 
@@ -208,7 +211,7 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
         if (e == null)
             return;
 
-        Intent intent = new Intent(getActivity(), Permissions_in2.class);
+        Intent intent = new Intent(getActivity(), Permissions_PieChart_Detail.class);
         switch (e.getXIndex())
         {
             case 0:
@@ -284,7 +287,7 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
         mChart.setDrawHoleEnabled(true);
         mChart.setHoleColorTransparent(true);
 
-        mChart.setTransparentCircleColor(Color.WHITE);
+        mChart.setTransparentCircleColor(Color.BLACK);      // 글씨 색갈
         mChart.setTransparentCircleAlpha(110);
 
 

@@ -53,8 +53,6 @@ public class RecyclerAdapter extends RecyclerView.Adapter<RecyclerAdapter.ViewHo
                     intent.putExtra("PackageName", item.getPackagename());
                     v.getContext().startActivity(intent);                   //// 앱클릭시 앱의 최종 정보창인 Applications_Permissions 창으로이동
                                                                             //// 아이템값으로 저장되어있는 패키지네임을 인텐트로 추가를 해서 보냄
-
-
             }
         });
     }
