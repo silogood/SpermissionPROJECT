@@ -8,9 +8,7 @@ import android.content.pm.PackageManager;
 import android.util.Log;
 import android.widget.Toast;
 
-/**
- * Created by silogood on 2015-11-19.
- */
+
 public class PackageReceiver extends BroadcastReceiver {
 
 
