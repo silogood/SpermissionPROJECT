@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SpermissionPROJECT-1.iml" filepath="$PROJECT_DIR$/SpermissionPROJECT-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpermissionPROJECT.iml" filepath="$PROJECT_DIR$/SpermissionPROJECT.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/mpandroidchartlibrary-2-1-6/mpandroidchartlibrary-2-1-6.iml" filepath="$PROJECT_DIR$/mpandroidchartlibrary-2-1-6/mpandroidchartlibrary-2-1-6.iml" />
     </modules>
