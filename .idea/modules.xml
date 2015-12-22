@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SpermissionPROJECT.iml" filepath="$PROJECT_DIR$/SpermissionPROJECT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-async-http-1.4.6/android-async-http-1.4.6.iml" filepath="$PROJECT_DIR$/android-async-http-1.4.6/android-async-http-1.4.6.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/http-core-4.1/http-core-4.1.iml" filepath="$PROJECT_DIR$/http-core-4.1/http-core-4.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/mpandroidchartlibrary-2-1-6/mpandroidchartlibrary-2-1-6.iml" filepath="$PROJECT_DIR$/mpandroidchartlibrary-2-1-6/mpandroidchartlibrary-2-1-6.iml" />
     </modules>
   </component>

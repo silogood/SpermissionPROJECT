@@ -22,14 +22,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
-
         applicationbtn = (Button) findViewById(R.id.applicationbtn);
         applicationbtn.setOnClickListener(this);
 
         permissionbtn = (Button) findViewById(R.id.permissionbtn);
         permissionbtn.setOnClickListener(this);
     }
-//aaaaaaaaaaaaaaaaaaaaa
+
     @Override
     public void onClick(View v) {
         Intent intent = null;

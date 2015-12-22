@@ -29,4 +29,6 @@ dependencies {
     compile 'com.getbase:floatingactionbutton:1.10.1'
     compile 'com.android.support:appcompat-v7:+'
     compile project(':mpandroidchartlibrary-2-1-6')
+    compile project(':android-async-http-1.4.6')
+    compile project(':http-core-4.1')
 }
