@@ -25,9 +25,12 @@
 
     <Button
         android:id="@+id/des"
-        android:layout_width="wrap_content"
-        android:layout_height="match_parent"
-        android:text="info"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:background="@drawable/chart_info"
+        android:shadowColor="@color/divider"
+
+        android:layout_marginRight="25dp"
         android:focusable="false"/>
 
 

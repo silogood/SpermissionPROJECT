@@ -15,6 +15,7 @@
         android:textSize="16dp"
         android:typeface="sans"
         android:layout_margin="13dp"
+        android:paddingLeft="20dp"
         android:layout_weight="1"/>
 
 

@@ -24,12 +24,12 @@
         "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
     },
     {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\marker2.png"
-    },
-    {
         "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\good.png",
         "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\good.png"
+    },
+    {
+        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\marker2.png",
+        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\marker2.png"
     },
     {
         "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
@@ -40,12 +40,12 @@
         "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\drawable\\marker2.png"
     },
     {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\comment.png"
-    },
-    {
         "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
         "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\comment.png",
+        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\src\\main\\res\\drawable\\comment.png"
     },
     {
         "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
@@ -286,6 +286,10 @@
     {
         "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
         "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/drawable/chart_info.png",
+        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/src/main/res/drawable/chart_info.png"
     },
     {
         "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/drawable/permission.png",
@@ -640,6 +644,10 @@
         "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
+        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/drawable/app_icon11.png",
+        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/src/main/res/drawable/app_icon11.png"
+    },
+    {
         "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
         "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
@@ -682,6 +690,10 @@
     {
         "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
         "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/drawable/info.png",
+        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/src/main/res/drawable/info.png"
     },
     {
         "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",

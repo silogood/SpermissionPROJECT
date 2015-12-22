@@ -67,8 +67,8 @@
                 android:orientation="vertical"
                 >
                 <Button
-                    android:layout_width="70dp"
-                    android:layout_height="70dp"
+                    android:layout_width="65dp"
+                    android:layout_height="65dp"
                     android:text=""
                     android:id="@+id/applicationbtn"
                     android:background="@drawable/app"
@@ -78,6 +78,13 @@
                     android:layout_height="wrap_content"
                     android:text="Application"
                     />
+
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="0.5dp"
+                android:layout_height="match_parent"
+                android:background="#E0E0E0">
+
 
             </LinearLayout>
 
@@ -104,6 +111,7 @@
                     android:text="Permission"
                     />
             </LinearLayout>
+
 
 
 
