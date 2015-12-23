@@ -308,7 +308,7 @@ public class Applications_Permissions extends Activity implements View.OnClickLi
 
             break;
             case R.id.comment:
-                Intent intent = new Intent(Applications_Permissions.this, Comment_list.class);
+                Intent intent = new Intent(Applications_Permissions.this, comment_list.class);
                 intent.putExtra("google_id", google_id);
                 intent.putExtra("package_app_name", package_app_name);
                 intent.putExtra("package_name", package_name);
