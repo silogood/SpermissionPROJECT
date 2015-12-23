@@ -8,6 +8,9 @@
         android:minSdkVersion="17"
         android:targetSdkVersion="23" />
 
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
     <application
         android:allowBackup="true"
         android:icon="@drawable/logo2"
@@ -40,6 +43,7 @@
         </receiver>
 
         <activity android:name="com.silogood.s_permissions.Permissions_HorizontalBarChart_Detail" />
+        <activity android:name="com.silogood.s_permissions.Comment_list" />
     </application>
 
 </manifest>

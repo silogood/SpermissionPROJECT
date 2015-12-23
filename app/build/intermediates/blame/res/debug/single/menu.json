@@ -1,50 +1,14 @@
 [
     {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bar.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\menu\\bar.xml"
     },
     {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/src/main/res/menu/menu_main.xml"
-    },
-    {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/menu/bar.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/src/main/res/menu/bar.xml"
-    },
-    {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/build/intermediates/res/merged/debug/menu/pie.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/app/src/main/res/menu/pie.xml"
-    },
-    {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bar.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\menu\\bar.xml"
-    },
-    {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\menu\\menu_main.xml"
-    },
-    {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pie.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\src\\main\\res\\menu\\pie.xml"
-    },
-    {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pie.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\src\\main\\res\\menu\\pie.xml"
-    },
-    {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bar.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\src\\main\\res\\menu\\bar.xml"
-    },
-    {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pie.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\menu\\pie.xml"
-    },
-    {
-        "merged": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\menu\\bar.xml",
-        "source": "/Users/NC/SpermissionPROJECT/SpermissionPROJECT/C:\\Github\\SpermissionPROJECT\\app\\src\\main\\res\\menu\\bar.xml"
+        "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\menu\\pie.xml",
+        "source": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\menu\\pie.xml"
     }
 ]
