@@ -25,9 +25,15 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         applicationbtn = (Button) findViewById(R.id.applicationbtn);
         applicationbtn.setOnClickListener(this);
 
+
+        /////////////////////////////////////////////
+        //////////////////////////////////////////////////
+        ///////////////////////////////////////////
         permissionbtn = (Button) findViewById(R.id.permissionbtn);
         permissionbtn.setOnClickListener(this);
     }
+
+
 
     @Override
     public void onClick(View v) {
