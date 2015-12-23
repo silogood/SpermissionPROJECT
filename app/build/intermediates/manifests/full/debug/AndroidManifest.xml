@@ -1,54 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.silogood.s_permissions"
-    android:versionCode="1"
-    android:versionName="1.0" >
-
-    <uses-sdk
-        android:minSdkVersion="17"
-        android:targetSdkVersion="23" />
-
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
-
-    <application
-        android:allowBackup="true"
-        android:icon="@drawable/logo2"
-        android:label="@string/app_name"
-        android:supportsRtl="true"
-        android:theme="@style/AppTheme" >
-        <activity
-            android:name="com.silogood.s_permissions.MainActivity"
-            android:label="@string/app_name"
-            android:theme="@style/AppTheme.NoActionBar" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity android:name="com.silogood.s_permissions.Permissions_Tab" />
-        <activity android:name="com.silogood.s_permissions.Applications_Permissions" />
-        <activity android:name="com.silogood.s_permissions.Permissions_PieChart_Detail" />
-        <activity android:name="com.silogood.s_permissions.Applications_Tab" />
-
-        <receiver android:name="com.silogood.s_permissions.PackageReceiver" >
-            <intent-filter>
-                <action android:name="android.intent.action.PACKAGE_ADDED" />
-                <action android:name="android.intent.action.PACKAGE_REMOVED" />
-                <action android:name="android.intent.action.PACKAGE_REPLACED" />
-
-                <data android:scheme="package" />
-            </intent-filter>
-        </receiver>
-
-        <activity android:name="com.silogood.s_permissions.Permissions_HorizontalBarChart_Detail" />
-        <activity android:name="com.silogood.s_permissions.Comment_list" />
-    </application>
-
-=======
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.silogood.s_permissions"
     android:versionCode="1"
@@ -96,5 +46,4 @@
         <activity android:name="com.silogood.s_permissions.Comment_list" />
     </application>
 
->>>>>>> e81b758632e65cc1adeecc997f415f199877a743
 </manifest>

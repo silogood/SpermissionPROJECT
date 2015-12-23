@@ -2,9 +2,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.silogood.s_permissions">
 
-    <uses-permission android:name="android.permission.INTERNET" />
-    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
 
     <application
         android:allowBackup="true"
@@ -37,10 +34,6 @@
             </intent-filter>
         </receiver>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> e81b758632e65cc1adeecc997f415f199877a743
         <activity android:name=".Permissions_HorizontalBarChart_Detail" />
         <activity android:name=".Comment_list"></activity>
     </application>

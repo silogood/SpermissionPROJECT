@@ -1,76 +1,82 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<items version="2" />
+<items version="2" >
 
-<<<<<<< HEAD
     <item
-        jar="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="39ae02ce40c3ac828abbf780ce0ff5d7a28b7d6a">
-        <dex dex="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_b9ce2070fda8062746b03d12928de9ccbf49f755.jar" />
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-23.0.1_7c0a50c100cafa78b9617b4bb252cd85c692832f.jar" />
     </item>
     <item
-        jar="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_a5d0b5cb2109830d3efc090ce43509f7c4bc3b66.jar" />
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_016b58738bf3376ea41ba1e8529bb7097d793bad.jar" />
     </item>
     <item
-        jar="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_8a0e400c04d4fb872247dcdf638b6b3b10eb993f.jar" />
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_10de6abdec25fd9ab74573def95db118bbcbe8e0.jar" />
     </item>
     <item
-        jar="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\android-async-http-1.4.6\android-async-http-1.4.6.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_97aaec6f148ad11dd99448132696c4e84f9e9468.jar" />
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.6_e958137c77af04a506187074d9cd828443aba0bd.jar" />
+    </item>
+    <item
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\com.getbase-floatingactionbutton-1.10.1_e24f6ada20894ea1eb943160534b06f862777ef5.jar" />
     </item>
     <item
         jar="C:\Users\silogood\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_c8e636ed8878d2525758e5e23c066122d738a289.jar" />
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_c8e636ed8878d2525758e5e23c066122d738a289.jar" />
     </item>
     <item
-        jar="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_7ed338ed130c440ee40091707f9fdfcda627dfac.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_b313962e98dae8a2cc2ffc98126e1cc46cfd72c7.jar" />
     </item>
     <item
-        jar="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\jars\classes.jar"
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="f40cf334cdc8b098b74312e21c7741c6eefbeb0e">
-        <dex dex="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\pre-dexed\debug\com.getbase-floatingactionbutton-1.10.1_616489725734923cdefbc165c3993bc157ad63aa.jar" />
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.1.1_eb737960030a476b36da3cc1c55a976672e03a87.jar" />
     </item>
     <item
-        jar="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\mpandroidchartlibrary-2-1-6\mpandroidchartlibrary-2-1-6.jar"
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\mpandroidchartlibrary-2-1-6\mpandroidchartlibrary-2-1-6.jar"
         jumboMode="false"
         revision="23.0.2"
         sha1="3f8beaf2f9b5357717e0b1ef9f6820e517784ea1">
-        <dex dex="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\pre-dexed\debug\mpandroidchartlibrary-2-1-6_912fef8a644d80f995a91c6859ac8eb90e0c94b9.jar" />
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\mpandroidchartlibrary-2-1-6_a5cc2796801e371845f3fc4639c8a458268fe47c.jar" />
     </item>
     <item
-        jar="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.1.1_034288ac5618658ea9710f3e12a0d903b200892d.jar" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_fb7a7926a8471953d46439a19f2fa6b003a82817.jar" />
+    </item>
+    <item
+        jar="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\http-core-4.1\http-core-4.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1bf8391d59bf37ddf2aa51aa90467afd0388bc2c">
+        <dex dex="C:\Users\silogood\Desktop\SpermissionPROJECT-master (3)\SpermissionPROJECT-master\app\build\intermediates\pre-dexed\debug\http-core-4.1_5ad4df12ba58422dda22e469e750a4aa93064b03.jar" />
     </item>
 
 </items>
-=======
->>>>>>> contributor/Shin
-=======
-<items version="2" />
-
->>>>>>> e81b758632e65cc1adeecc997f415f199877a743

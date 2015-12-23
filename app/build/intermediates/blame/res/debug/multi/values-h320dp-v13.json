@@ -1,10 +1,6 @@
 [
     {
-<<<<<<< HEAD
         "outputFile": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-h320dp-v13\\values-h320dp-v13.xml",
-=======
-        "outputFile": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-h320dp-v13\\values-h320dp-v13.xml",
->>>>>>> contributor/Shin
         "map": [
             {
                 "to": {
@@ -15,7 +11,6 @@
                     "endOffset": 108
                 },
                 "from": {
-<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h320dp\\values-h320dp.xml",
                     "position": {
                         "startLine": 4,
@@ -29,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\values-h320dp-v13\\values-h320dp-v13.xml",
+        "outputFile": "C:\\Users\\silogood\\Desktop\\SpermissionPROJECT-master (3)\\SpermissionPROJECT-master\\app\\build\\intermediates\\res\\merged\\debug\\values-h320dp-v13\\values-h320dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -40,7 +35,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h320dp\\values-h320dp.xml",
+                    "file": "C:\\Users\\silogood\\Desktop\\SpermissionPROJECT-master (3)\\SpermissionPROJECT-master\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h320dp\\values-h320dp.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -51,34 +46,5 @@
                 }
             }
         ]
-<<<<<<< HEAD
-    },
-    {
-        "outputFile": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-h320dp-v13\\values-h320dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-=======
->>>>>>> contributor/Shin
-                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-h320dp\\values-h320dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 231,
-                        "endColumn": 57,
-                        "endOffset": 284
-                    }
-                }
-            }
-        ]
-=======
->>>>>>> e81b758632e65cc1adeecc997f415f199877a743
     }
 ]
