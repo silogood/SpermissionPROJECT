@@ -245,9 +245,6 @@ public class Permissions_Tab extends AppCompatActivity{    // Runnable 로 쓰�
 //        mGroupData.clear();
 //        mChildData.clear();
 
-
-
-
             permList.clear();
 
             return null;
