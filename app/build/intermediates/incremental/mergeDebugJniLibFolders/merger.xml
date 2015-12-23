@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="D:\AndroidStudio\workspace\SpermissionPROJECT\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\AndroidStudio\workspace\SpermissionPROJECT\app\src\debug\jniLibs"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\debug\jniLibs"/></dataSet></merger>
