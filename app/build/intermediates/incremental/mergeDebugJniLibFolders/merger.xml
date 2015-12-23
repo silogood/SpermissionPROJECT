@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <merger version="3"><dataSet config="main"><source path="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\debug\jniLibs"/></dataSet></merger>
 =======
 <merger version="3"><dataSet config="main"><source path="D:\AndroidStudio\workspace\SpermissionPROJECT\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="D:\AndroidStudio\workspace\SpermissionPROJECT\app\src\debug\jniLibs"/></dataSet></merger>
 >>>>>>> contributor/Shin
+=======
+<merger version="3"><dataSet config="main"><source path="C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\jniLibs"/></dataSet><dataSet config="debug"><source path="C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\debug\jniLibs"/></dataSet></merger>
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743

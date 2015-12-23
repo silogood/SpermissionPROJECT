@@ -29,6 +29,7 @@
                 }
             }
         ]
+<<<<<<< HEAD
     },
     {
         "outputFile": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-hdpi-v4\\values-hdpi-v4.xml",
@@ -84,5 +85,7 @@
                 }
             }
         ]
+=======
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
     }
 ]

@@ -128,7 +128,7 @@ public class Applications_Permissions extends Activity implements View.OnClickLi
 
             ImageView imageView = (ImageView) findViewById(android.R.id.icon);
             imageView.setImageDrawable(icon);
-                                                                                                //이미지뷰에 아이콘값 뿌려줌
+            //이미지뷰에 아이콘값 뿌려줌
             AppName = pi.packageName;
             packageVersionCode = pi.versionCode;
             packageVersionName = pi.versionName;                                        //패키지 버전 코드 등등을 받음
@@ -201,7 +201,7 @@ public class Applications_Permissions extends Activity implements View.OnClickLi
                         curChildMap.put("Description", (desc == null) ? "" : desc.toString());
                         curChildMap.put("Securitylevel", String.valueOf(pinfo.protectionLevel));
                         children.add(curChildMap);
-                                                                                                    ///차일드값에 저장해버림 퍼미션들 , 레벨 이름 등등
+                        ///차일드값에 저장해버림 퍼미션들 , 레벨 이름 등등
                         mGroupData.add(curGroupMap);
                         Log.d("CCC", "" + mGroupData);
                         mChildData.add(children);                                                   /// 그룹과 차일드에 해당값들을 저장한다
@@ -231,7 +231,7 @@ public class Applications_Permissions extends Activity implements View.OnClickLi
                 R.layout.marketplay_item_child,
                 new String[]{ "Description", "permission"},
                 new int[]{R.id.text1,R.id.text2}
-                                                                        //차일드를 연결 디스크립션과 퍼미션명을 연결
+                //차일드를 연결 디스크립션과 퍼미션명을 연결
         );
         list.setAdapter(mAdapter);
     }
@@ -271,7 +271,7 @@ public class Applications_Permissions extends Activity implements View.OnClickLi
                     convertView, parent);
             Map<String, String> child =
                     (Map<String, String>) getChild(groupPosition, childPosition);
-                                                                        ////자식뷰를 나타냄
+            ////자식뷰를 나타냄
             return v;
         }
     }
@@ -296,6 +296,7 @@ public class Applications_Permissions extends Activity implements View.OnClickLi
 
             if(v.getId()==R.id.like) like_hate = true;
             if(v.getId()==R.id.hate) like_hate = false;
+<<<<<<< HEAD
 
             RequestParams params = new RequestParams();
             params.put("google_id", google_id);
@@ -321,6 +322,33 @@ public class Applications_Permissions extends Activity implements View.OnClickLi
     /* 통신 결과를 받아서 처리할 클래스 - inner class 형태로 정의한다. */
     public class HttpResponse extends JsonHttpResponseHandler {
 
+=======
+
+            RequestParams params = new RequestParams();
+            params.put("google_id", google_id);
+            params.put("like_hate", like_hate);
+            params.put("package_app_name", package_app_name);
+            params.put("package_name", package_name);
+            params.put("process","send");
+
+            client.post(URL, params, httpResponse);
+
+            break;
+            case R.id.comment:
+                Intent intent = new Intent(Applications_Permissions.this, Comment_list.class);
+                intent.putExtra("google_id", google_id);
+                intent.putExtra("package_app_name", package_app_name);
+                intent.putExtra("package_name", package_name);
+                startActivity(intent);
+                break;
+        }
+
+    }
+
+    /* 통신 결과를 받아서 처리할 클래스 - inner class 형태로 정의한다. */
+    public class HttpResponse extends JsonHttpResponseHandler {
+
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
         ProgressDialog dialog;
 
         /* 통신은 이루어 졌으나 서버에서 에러코드를 반환할 경우 호출된다.
@@ -335,8 +363,13 @@ public class Applications_Permissions extends Activity implements View.OnClickLi
             String errMsg = "State Code: " + statusCode + "\n";
             errMsg += "Error Message: " + throwable.getMessage();
 
+<<<<<<< HEAD
 //			tv1.setText(errMsg);
             Toast.makeText(getApplicationContext(), errMsg, Toast.LENGTH_LONG).show();
+=======
+
+//            Toast.makeText(getApplicationContext(), errMsg, Toast.LENGTH_LONG).show();
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
             super.onFailure(statusCode, headers, responseString, throwable);
         }
 
@@ -349,11 +382,19 @@ public class Applications_Permissions extends Activity implements View.OnClickLi
         public void onFailure(int statusCode, Header[] headers,
                               Throwable throwable, JSONObject errorResponse) {
             // TODO Auto-generated method stub
+<<<<<<< HEAD
             String errMsg = "State Code: " + statusCode + "\n";
             errMsg += "Error Message: " + throwable.getMessage();
 
 //			tv1.setText(errMsg);
             Toast.makeText(getApplicationContext(), errMsg, Toast.LENGTH_LONG).show();
+=======
+ //           String errMsg = "State Code: " + statusCode + "\n";
+ //           errMsg += "Error Message: " + throwable.getMessage();
+
+//			tv1.setText(errMsg);
+            Toast.makeText(getApplicationContext(), "Please check your Internet connection.", Toast.LENGTH_SHORT).show();
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
             super.onFailure(statusCode, headers, throwable, errorResponse);
         }
 
