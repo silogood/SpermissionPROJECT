@@ -53,7 +53,7 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-
+/*
         switch (item.getItemId()) {
             case R.id.actionToggleValues: {
                 for (DataSet<?> set : mChart.getData().getDataSets())
@@ -107,6 +107,8 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
             }
         }
         return true;
+        */
+        return true;
     }
 
     /*
@@ -141,7 +143,7 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
             xVals.add(mParties[i % mParties.length]);
         }
 
-        PieDataSet dataSet = new PieDataSet(yVals1, "Election Results");
+        PieDataSet dataSet = new PieDataSet(yVals1, "");
         dataSet.setSliceSpace(2f);
         dataSet.setSelectionShift(5f);
 
@@ -176,11 +178,13 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
         data.setValueTextSize(15);// 11f
         data.setValueTextColor(Color.BLACK);
         data.setValueTypeface(tf);
+
         mChart.setData(data);
 
         // undo all highlights
         mChart.highlightValues(null);
-
+        for (DataSet<?> set : mChart.getData().getDataSets())
+            set.setDrawValues(!set.isDrawValuesEnabled());
         mChart.invalidate();
     }
 
@@ -273,7 +277,7 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
         mSeekBarY.setOnSeekBarChangeListener(this);
 */
         mChart = (PieChart) v.findViewById(R.id.chart1);
-        mChart.setUsePercentValues(true);
+//        mChart.setUsePercentValues(true);
         mChart.setDescription("Permission Danger Level");
         mChart.setExtraOffsets(5, 10, 5, 5);
 
@@ -300,7 +304,6 @@ public class PieChartActivity extends Fragment implements OnChartValueSelectedLi
         // enable rotation of the chart by touch
         mChart.setRotationEnabled(true);
         mChart.setHighlightPerTapEnabled(true);
-
         // mChart.setUnit(" €");
         // mChart.setDrawUnitsInChart(true);
 

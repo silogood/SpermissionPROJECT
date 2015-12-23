@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/SpermissionPROJECT.iml" filepath="$PROJECT_DIR$/SpermissionPROJECT.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/SpermissionPROJECT-1.iml" filepath="$PROJECT_DIR$/SpermissionPROJECT-1.iml" />
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
       <module fileurl="file://$PROJECT_DIR$/android-async-http-1.4.6/android-async-http-1.4.6.iml" filepath="$PROJECT_DIR$/android-async-http-1.4.6/android-async-http-1.4.6.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/http-core-4.1/http-core-4.1.iml" filepath="$PROJECT_DIR$/http-core-4.1/http-core-4.1.iml" />

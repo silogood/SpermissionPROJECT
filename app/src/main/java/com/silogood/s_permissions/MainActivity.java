@@ -50,8 +50,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         getMenuInflater().inflate(R.menu.menu_main, menu);
         return true;
     }   //메뉴
+//
 
-    @Override
+   /* @Override
     public boolean onOptionsItemSelected(MenuItem item) {
         // Handle action bar item clicks here. The action bar will
         // automatically handle clicks on the Home/Up button, so long
@@ -64,5 +65,5 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         }    //옵션 이여
 
         return super.onOptionsItemSelected(item);
-    }
+    }*/
 }

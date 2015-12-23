@@ -2,7 +2,11 @@
 manifest
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:2:1-39:12
+=======
+ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:2:1-44:12
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
 	package
 		ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml
@@ -16,6 +20,7 @@ ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJ
 		INJECTED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml
 application
+<<<<<<< HEAD
 ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:5:5-37:19
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
@@ -29,6 +34,21 @@ MERGED from [com.android.support:support-v4:23.1.1] C:\Users\silogood\Documents\
 MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\AndroidManifest.xml:12:5-20
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
 MERGED from [com.android.support:support-v4:23.1.1] C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+=======
+ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:5:5-39:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.0.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.getbase:floatingactionbutton:1.10.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.getbase\floatingactionbutton\1.10.1\AndroidManifest.xml:12:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Jay\Github\SpermissionPROJECT-1\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
 	android:label
 		ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:8:9-41
 	android:supportsRtl
@@ -96,9 +116,27 @@ ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJ
 	android:scheme
 		ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:32:23-47
 activity#com.silogood.s_permissions.Permissions_HorizontalBarChart_Detail
+<<<<<<< HEAD
 ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:36:9-74
 	android:name
 		ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:36:19-72
+=======
+ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:37:9-75
+	android:name
+		ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:37:19-72
+activity#com.silogood.s_permissions.Comment_list
+ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:38:9-59
+	android:name
+		ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:38:19-47
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:40:5-67
+	android:name
+		ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:40:22-64
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:41:5-71
+	android:name
+		ADDED from C:\Users\Jay\Github\SpermissionPROJECT-1\app\src\main\AndroidManifest.xml:41:22-68
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
 uses-sdk
 INJECTED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43

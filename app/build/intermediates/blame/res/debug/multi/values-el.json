@@ -464,6 +464,7 @@
                 }
             }
         ]
+<<<<<<< HEAD
     },
     {
         "outputFile": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-el\\values-el.xml",
@@ -1236,5 +1237,7 @@
                 }
             }
         ]
+=======
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
     }
 ]

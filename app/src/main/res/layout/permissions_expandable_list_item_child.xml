@@ -13,8 +13,7 @@
     <ImageView android:id="@android:id/icon"
         android:layout_width="@android:dimen/app_icon_size"
         android:layout_height="@android:dimen/app_icon_size"
-        android:layout_marginLeft="5dip"
-        android:layout_marginRight="11dip"
+        android:layout_marginLeft="25dp"
         android:layout_gravity="center_vertical"
         android:scaleType="fitCenter"/>
 

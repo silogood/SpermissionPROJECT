@@ -564,9 +564,15 @@ public final class R {
 		public static final int abc_textfield_search_activated_mtrl_alpha = 0x7f020042;
 		public static final int abc_textfield_search_default_mtrl_alpha = 0x7f020043;
 		public static final int abc_textfield_search_material = 0x7f020044;
+<<<<<<< HEAD
 		public static final int design_fab_background = 0x7f020049;
 		public static final int design_snackbar_background = 0x7f02004a;
 		public static final int notification_template_icon_bg = 0x7f02005b;
+=======
+		public static final int design_fab_background = 0x7f02004b;
+		public static final int design_snackbar_background = 0x7f02004c;
+		public static final int notification_template_icon_bg = 0x7f02005f;
+>>>>>>> e81b758632e65cc1adeecc997f415f199877a743
 	}
 	public static final class id {
 		public static final int action0 = 0x7f0c008e;
