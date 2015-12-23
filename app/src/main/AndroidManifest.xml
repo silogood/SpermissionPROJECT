@@ -33,7 +33,12 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name=".Permissions_HorizontalBarChart_Detail"/>
+
+        <activity android:name=".Permissions_HorizontalBarChart_Detail" />
+        <activity android:name=".Comment_list"></activity>
     </application>
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+
 
 </manifest>
