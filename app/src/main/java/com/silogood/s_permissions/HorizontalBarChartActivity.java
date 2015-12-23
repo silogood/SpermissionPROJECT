@@ -57,7 +57,7 @@ public class HorizontalBarChartActivity extends Fragment implements OnChartValue
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
-
+/*
         switch (item.getItemId()) {
             case R.id.actionToggleValues: {
                 for (DataSet<?> set : mChart.getData().getDataSets())
@@ -136,6 +136,7 @@ public class HorizontalBarChartActivity extends Fragment implements OnChartValue
 //                break;
 //            }
         }
+        */
         return true;
     }
 

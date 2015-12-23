@@ -26,7 +26,7 @@ import org.json.JSONObject;
 import java.util.ArrayList;
 import java.util.List;
 
-public class comment_list extends AppCompatActivity implements View.OnClickListener {
+public class Comment_list extends AppCompatActivity implements View.OnClickListener {
 
     private final String URL = "http://spermission.dothome.co.kr/comment.php";
     AsyncHttpClient client;
@@ -72,11 +72,11 @@ public class comment_list extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
 
         if(comment.getText().toString().equals("")) {
-            Toast.makeText(comment_list.this,"Rewrite!",Toast.LENGTH_LONG).show();
+            Toast.makeText(Comment_list.this,"Rewrite!",Toast.LENGTH_LONG).show();
             return;
         }
         if(comment.getText().toString().length()>100) {
-            Toast.makeText(comment_list.this,"Too Long!",Toast.LENGTH_LONG).show();
+            Toast.makeText(Comment_list.this,"Too Long!",Toast.LENGTH_LONG).show();
             return;
         }
 
@@ -235,7 +235,7 @@ public class comment_list extends AppCompatActivity implements View.OnClickListe
         @Override
         public void onStart() {
             // TODO Auto-generated method stub
-            dialog = new ProgressDialog(comment_list.this);
+            dialog = new ProgressDialog(Comment_list.this);
             dialog.setMessage("Loading...");
             dialog.setCancelable(false);
             dialog.show();
