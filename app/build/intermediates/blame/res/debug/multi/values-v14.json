@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+=======
+        "outputFile": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
         "map": [
             {
                 "to": {
@@ -12,7 +16,11 @@
                     "endOffset": 326
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -32,7 +40,11 @@
                     "endOffset": 397
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -51,7 +63,11 @@
                     "endOffset": 480
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -71,7 +87,11 @@
                     "endOffset": 890
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -92,7 +112,11 @@
                     "endOffset": 1312
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -112,7 +136,11 @@
                     "endOffset": 1432
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -131,7 +159,11 @@
                     "endOffset": 1495
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -151,7 +183,11 @@
                     "endOffset": 1649
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -171,7 +207,11 @@
                     "endOffset": 1712
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -190,6 +230,7 @@
                     "endOffset": 1844
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 33,
@@ -596,6 +637,8 @@
                     "endOffset": 1844
                 },
                 "from": {
+=======
+>>>>>>> contributor/Shin
                     "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v14\\values-v14.xml",
                     "position": {
                         "startLine": 33,

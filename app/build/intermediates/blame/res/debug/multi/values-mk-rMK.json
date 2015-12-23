@@ -335,6 +335,7 @@
                 },
                 "from": {
                     "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+<<<<<<< HEAD
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -1029,6 +1030,8 @@
                 },
                 "from": {
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-mk-rMK\\values-mk-rMK.xml",
+=======
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

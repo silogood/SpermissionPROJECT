@@ -12,6 +12,7 @@
                 },
                 "from": {
                     "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+<<<<<<< HEAD
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -60,6 +61,8 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+=======
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

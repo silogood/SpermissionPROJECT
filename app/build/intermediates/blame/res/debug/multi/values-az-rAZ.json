@@ -354,6 +354,7 @@
                 },
                 "from": {
                     "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-az-rAZ\\values-az-rAZ.xml",
+<<<<<<< HEAD
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -1086,6 +1087,8 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-az-rAZ\\values-az-rAZ.xml",
+=======
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,

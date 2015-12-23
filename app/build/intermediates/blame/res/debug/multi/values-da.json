@@ -373,6 +373,7 @@
                 },
                 "from": {
                     "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-da\\values-da.xml",
+<<<<<<< HEAD
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -1143,6 +1144,8 @@
                 },
                 "from": {
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-da\\values-da.xml",
+=======
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,

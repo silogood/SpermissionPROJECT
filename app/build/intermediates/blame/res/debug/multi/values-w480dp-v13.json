@@ -31,6 +31,7 @@
                 },
                 "from": {
                     "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-w480dp\\values-w480dp.xml",
+<<<<<<< HEAD
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -117,6 +118,8 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-w480dp\\values-w480dp.xml",
+=======
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

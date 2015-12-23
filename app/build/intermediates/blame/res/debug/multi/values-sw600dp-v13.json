@@ -317,6 +317,7 @@
                 },
                 "from": {
                     "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+<<<<<<< HEAD
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -977,6 +978,8 @@
                 },
                 "from": {
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\values-sw600dp\\values-sw600dp.xml",
+=======
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,

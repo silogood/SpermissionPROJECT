@@ -2,6 +2,7 @@
     {
         "merged": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+<<<<<<< HEAD
     },
     {
         "merged": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
@@ -10,5 +11,7 @@
     {
         "merged": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
         "source": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout-sw600dp\\design_layout_snackbar.xml"
+=======
+>>>>>>> contributor/Shin
     }
 ]

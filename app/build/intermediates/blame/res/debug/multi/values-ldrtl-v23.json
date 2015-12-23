@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+=======
+        "outputFile": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\res\\merged\\debug\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+>>>>>>> contributor/Shin
         "map": [
             {
                 "to": {
@@ -11,6 +15,7 @@
                     "endOffset": 163
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\silogood\\Documents\\GitHub\\SpermissionPROJECT\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
                     "position": {
                         "startLine": 4,
@@ -60,6 +65,9 @@
                 },
                 "from": {
                     "file": "C:\\Users\\Jay\\Github\\SpermissionPROJECT-1\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+=======
+                    "file": "D:\\AndroidStudio\\workspace\\SpermissionPROJECT\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-ldrtl-v23\\values-ldrtl-v23.xml",
+>>>>>>> contributor/Shin
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
