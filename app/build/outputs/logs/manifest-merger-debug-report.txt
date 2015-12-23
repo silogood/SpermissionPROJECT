@@ -97,7 +97,7 @@ activity#com.silogood.s_permissions.Permissions_HorizontalBarChart_Detail
 ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:37:9-75
 	android:name
 		ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:37:19-72
-activity#com.silogood.s_permissions.Comment_list
+activity#com.silogood.s_permissions.comment_list
 ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:38:9-59
 	android:name
 		ADDED from C:\Users\silogood\Documents\GitHub\SpermissionPROJECT\SpermissionPROJECT\app\src\main\AndroidManifest.xml:38:19-47

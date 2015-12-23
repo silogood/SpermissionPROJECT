@@ -72,11 +72,11 @@ public class comment_list extends AppCompatActivity implements View.OnClickListe
     public void onClick(View v) {
 
         if(comment.getText().toString().equals("")) {
-            Toast.makeText(comment_list.this,"Rewrite!",Toast.LENGTH_LONG).show();
+            Toast.makeText(comment_list.this, "Rewrite!", Toast.LENGTH_LONG).show();
             return;
         }
         if(comment.getText().toString().length()>100) {
-            Toast.makeText(comment_list.this,"Too Long!",Toast.LENGTH_LONG).show();
+            Toast.makeText(comment_list.this, "Too Long!", Toast.LENGTH_LONG).show();
             return;
         }
 

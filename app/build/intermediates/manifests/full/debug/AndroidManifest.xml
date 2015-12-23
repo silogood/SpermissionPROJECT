@@ -43,7 +43,7 @@
         </receiver>
 
         <activity android:name="com.silogood.s_permissions.Permissions_HorizontalBarChart_Detail" />
-        <activity android:name="com.silogood.s_permissions.Comment_list" />
+        <activity android:name="com.silogood.s_permissions.comment_list" />
     </application>
 
 </manifest>
